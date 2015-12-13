@@ -97,4 +97,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #include <..\UglyChristmasHat\lightManager.h>
 #include <..\UglyChristmasHat\neoPixelWrapper.cpp>
 #include <..\UglyChristmasHat\neoPixelWrapper.h>
+#include <..\UglyChristmasHat\twoColorOscillatingLightHandler.cpp>
+#include <..\UglyChristmasHat\twoColorOscillatingLightHandler.h>
 #endif
